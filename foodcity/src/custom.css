@@ -1,0 +1,15 @@
+.choice {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#mapspace {
+    height: 530px;
+    width: 650px;
+}
+.feedback {
+    margin: 10px;
+    min-width: 200px;
+}
+.info {
+    margin-top: 15px;
+}
